@@ -1,0 +1,2 @@
+# WindowsServer_PowerShell_WMI
+GeekBrains
